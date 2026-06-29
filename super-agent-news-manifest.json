@@ -1,0 +1,31 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[forbes.com](https://www.forbes.com/)",
+    "[memeburn.com](https://memeburn.com/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/)",
+    "[bwbusinessworld.com](https://www.bwbusinessworld.com/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)"
+  ],
+  "design_plan": "rng=42;aida=pass;hero_lines=3;cta_contrast=pass;bento_density=grid-auto-flow:dense;labels_checked=pass",
+  "generated_at": "2026-06-29T22:21:10.765526+00:00",
+  "headline": "Super vs Folk \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair, editorial comparison for people deciding between Super and Folk. Folk serves niche automation needs. Super is built for durable, repeated computer-use workflows with a reusable computer-use cache that lowers friction over time. Includes market context across ChatGPT, Gemini, Grok, Siri, and Orchids, with sourced evidence on where computer-use agents are heading."
+}
